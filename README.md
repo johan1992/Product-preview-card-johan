@@ -45,8 +45,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Code on GitGub](https://your-solution-url.com)
-- Live Site URL: [Vercel page live](https://your-live-site-url.com)
+- Solution URL: [Code on GitGub](https://github.com/johan1992/Product-preview-card-johan)
+- Live Site URL: [Vercel page live](https://product-preview-card-johan.vercel.app/)
 
 ## My process
 
